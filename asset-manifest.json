@@ -1,11 +1,11 @@
 {
-  "main.js": "/personal-app-react/static/js/main.1048c7f9.chunk.js",
-  "main.js.map": "/personal-app-react/static/js/main.1048c7f9.chunk.js.map",
-  "static/js/1.14fcefed.chunk.js": "/personal-app-react/static/js/1.14fcefed.chunk.js",
-  "static/js/1.14fcefed.chunk.js.map": "/personal-app-react/static/js/1.14fcefed.chunk.js.map",
-  "runtime~main.js": "/personal-app-react/static/js/runtime~main.194b5ca4.js",
-  "runtime~main.js.map": "/personal-app-react/static/js/runtime~main.194b5ca4.js.map",
-  "index.html": "/personal-app-react/index.html",
-  "precache-manifest.6c9a3a82e920bfaf082c5ca0b01259dc.js": "/personal-app-react/precache-manifest.6c9a3a82e920bfaf082c5ca0b01259dc.js",
-  "service-worker.js": "/personal-app-react/service-worker.js"
+  "main.js": "/my-app/static/js/main.1048c7f9.chunk.js",
+  "main.js.map": "/my-app/static/js/main.1048c7f9.chunk.js.map",
+  "static/js/1.14fcefed.chunk.js": "/my-app/static/js/1.14fcefed.chunk.js",
+  "static/js/1.14fcefed.chunk.js.map": "/my-app/static/js/1.14fcefed.chunk.js.map",
+  "runtime~main.js": "/my-app/static/js/runtime~main.a3bd857c.js",
+  "runtime~main.js.map": "/my-app/static/js/runtime~main.a3bd857c.js.map",
+  "index.html": "/my-app/index.html",
+  "precache-manifest.bfc96be71e4286df27505405117cb7dd.js": "/my-app/precache-manifest.bfc96be71e4286df27505405117cb7dd.js",
+  "service-worker.js": "/my-app/service-worker.js"
 }
